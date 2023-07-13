@@ -12,7 +12,7 @@ This repository contains the implementation of a Decision Tree Classifier. The D
 - Includes visualization capabilities to understand the decision-making process
 
 ## Installation
-1. Clone the repository: `git clone [https://github.com/your_username](https://github.com/mohamed55223/Decision_Tree_Model.git`
+1. Clone the repository: `git clone https://github.com/mohamed55223/Decision_Tree_Model.git`
 
 
 ## Usage
